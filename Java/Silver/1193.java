@@ -14,6 +14,8 @@ class java {
 
         while(true) {
 
+            // 2 2 1        
+
             if (want <= prev_count_sum + line_count) {
 
                 if(line_count % 2 == 1) {
@@ -30,5 +32,7 @@ class java {
                 line_count++;
             }
         }
+        
+        sc.close();
     }
 }
