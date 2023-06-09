@@ -1,4 +1,4 @@
-package Java.Plantinum;
+package Java.backjoon.Plantinum;
 
 import java.io.*;
 

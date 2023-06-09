@@ -1,4 +1,4 @@
-package Java.Silver;
+package Java.backjoon.Silver;
 
 import java.util.Arrays;
 import java.util.Comparator;
