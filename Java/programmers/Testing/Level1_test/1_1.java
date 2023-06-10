@@ -1,6 +1,4 @@
-package Java.programmers.Level1_test;
-
-import java.util.*;
+import java.util.HashSet;
 
 class Solution {
     public static void main(String[] args) {
