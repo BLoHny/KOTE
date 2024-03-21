@@ -2,7 +2,7 @@ package Java.backjoon.Silver;
 
 import java.util.Scanner;
 
-class java {
+class hi1475 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();

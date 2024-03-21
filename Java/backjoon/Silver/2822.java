@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-class Main {
+class hi2822 {
 
     public static void main(String[] args) {
 
